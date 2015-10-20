@@ -9,13 +9,11 @@ var weatherParams = {
     'q':'Aarschot,Belgium',
     'units':'metric',
     'lang':lang,
-    'APPID':'YOUR_FREE_OPENWEATHER_API_KEY'
+    'APPID':'e5ea7887f6fe2b6e7fac38e407a0b587'
 };
 
-var feed = 'http://feeds.nos.nl/nosjournaal?format=rss';
-//var feed = 'http://www.nu.nl/feeds/rss/achterklap.rss';
-//var feed = 'http://www.nu.nl/feeds/rss/opmerkelijk.rss';
-//var feed = 'http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml';
+var feed = 'http://www.hln.be/rss.xml';
+
 
 // compliments:
 var morning = [
