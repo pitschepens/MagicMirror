@@ -6,7 +6,7 @@ var lang = 'nl';
 //change weather params here:
 //units: metric or imperial
 var weatherParams = {
-    'q':'Baarn,Netherlands',
+    'q':'Aarschot,Belgium',
     'units':'metric',
     'lang':lang,
     'APPID':'YOUR_FREE_OPENWEATHER_API_KEY'
