@@ -223,7 +223,7 @@ jQuery(document).ready(function($) {
 
 		setTimeout(function() {
 			updateCompliment(true);
-		}, 30000);
+		}, 360000);
 
 	})();
 
@@ -380,7 +380,7 @@ jQuery(document).ready(function($) {
 		if (newsIndex < 0) newsIndex = news.length - 1;
 		setTimeout(function() {
 			showNews();
-		}, 5500);
+		}, 6500);
 	})();
 
 });
