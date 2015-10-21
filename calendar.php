@@ -1,7 +1,7 @@
 <?php
 	
 	// Set the url of the calendar feed.
-	$url = 'https://calendar.google.com/calendar/ical/pieterjanschepens.mersen%40gmail.com/public/basic.ics';
+	$url = 'https://calendar.google.com/calendar/ical/pitschepens%40gmail.com/private-73db356a7f2066ed7b205ed81b95b6e8/basic.ics';
 
 	/*****************************************/
 
